@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "paymentManagementApp/1.0.0": {
+        "dependencies": {
+          "classes": "1.0.0"
+        },
+        "runtime": {
+          "paymentManagementApp.dll": {}
+        }
+      },
+      "classes/1.0.0": {
+        "runtime": {
+          "classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "paymentManagementApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
